@@ -195,5 +195,5 @@ export const LANGUAGE_TO_FLAG = {
   italian: "it",
   turkish: "tr",
   dutch: "nl",
-  tamil: "tm",
+  tamil: "in",
 };
