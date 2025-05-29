@@ -2,6 +2,8 @@
 
 A real-time messaging and video call platform designed for language learning, where users can connect with others, chat, learn through video calls, and engage in language exchange. This application includes features like real-time messaging, typing indicators, video calls, screen sharing, JWT authentication, and 32 unique UI themes to create an immersive learning experience.
 
+**Visit the live application:** [https://dialingo.onrender.com/](https://dialingo.onrender.com/)
+
 ## Features
 
 - 🌐 **Real-time Messaging**: 
